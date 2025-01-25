@@ -17,14 +17,14 @@ The Flight Management System is a C++ console-based application that allows user
 + Ensure you have a C++ compiler installed on your system.
 + Clone or download this repository.
 + Compile the Flight_Management_System.cpp file using your preferred compiler.
-'''
+```
 g++ Flight_Management_System.cpp -o FlightManagementSystem
 
-'''
+```
 + Run the program:
-'''
+```
 ./FlightManagementSystem
-'''
+```
 
 Usage
 + Launch the program and follow the menu prompts.
